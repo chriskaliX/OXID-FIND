@@ -6,4 +6,4 @@
 
 ## 图片展示
 
-![image](https://github.com/chriskali/OXID-Find/blob/master/img.png)
+![image](https://github.com/chriskaliX/OXID-FIND/blob/master/img.png)
